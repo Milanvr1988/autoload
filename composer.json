@@ -1,0 +1,16 @@
+{
+    "name": "milan/test3-3",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Milanvr1988",
+            "email": "73145579+Milanvr1988@users.noreply.github.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\" : ""
+        }
+    }
+}
